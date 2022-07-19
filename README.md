@@ -13,4 +13,5 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
+3. [![Build Status](https://dev.azure.com/rajdevops22/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/krajkumarus.calculator?branchName=additional-cleanup1)](https://dev.azure.com/rajdevops22/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=additional-cleanup1)
 
